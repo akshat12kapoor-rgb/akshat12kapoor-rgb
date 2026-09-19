@@ -10,6 +10,14 @@ I enjoy taking ideas from concept → architecture → implementation → deploy
 
 ## 🚀 Featured Projects
 
+### 🧮 [Stochastic Vol Market Maker](https://github.com/akshat12kapoor-rgb/stochastic-vol-market-maker)
+
+An options market-making engine: **Black-Scholes, Heston, and SABR pricing** with full Greeks, a multi-Greek **Avellaneda-Stoikov quoting engine** extended from delta risk to delta + vega inventory skew, and an event-driven backtester comparing flat-vol vs. stochastic-vol quoting strategies across simulated market regimes. Ships with a FastAPI + Plotly web UI for live pricing, vol-surface calibration, and backtest/P&L analysis.
+
+**Python · FastAPI · Plotly · Heston/SABR · Options Pricing · Market Making · Backtesting**
+
+---
+
 ### 🤖 [JARVIS — AI Slack Agent](https://github.com/akshat12kapoor-rgb/AI-slack-agent)
 
 An autonomous AI agent that connects with **Slack, Gmail, and Google Calendar** to perform real-world tasks through natural language.
@@ -66,11 +74,11 @@ Financial sentiment analysis system for extracting and aggregating sentiment fro
 
 **AI & Software**
 
-`LLMs` `AI Agents` `FastAPI` `REST APIs` `MCP` `PostgreSQL` `Docker`
+`LLMs` `AI Agents` `FastAPI` `REST APIs` `MCP` `PostgreSQL` `Docker` `Plotly`
 
 **Finance & Quant**
 
-`DCF` `Relative Valuation` `Algorithmic Trading` `Backtesting` `Technical Analysis` `Financial NLP`
+`DCF` `Relative Valuation` `Options Pricing` `Stochastic Volatility` `Market Making` `Algorithmic Trading` `Backtesting` `Technical Analysis` `Financial NLP`
 
 **Automation**
 
